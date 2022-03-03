@@ -23,11 +23,6 @@ Cannot find the referenced element:
 specified on the element <use> - may be a problem of 'id'
 
 
-Enclosed Exception:
-file:/tmp/svgsFolderUrl2plantUmlSprites/uwsgi-original.svg:-1
-The attribute "width" of the element <rect> is required
-
-
 vscode-original-wordmark.svg:-1
 Cannot find the referenced element: 
 "#b"
