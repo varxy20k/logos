@@ -26,3 +26,8 @@ Original message:
 Unexpected token: 0 (see LexicalUnits).
 
 
+
+The URI "file:/tmp/svgsFolderUrl2plantUmlSprites/e-cloud-tech-member.svg#n"                                                                   for a CSS property found on the element <g> is invalid stackTrace=[] depth=50 suppressedExceptions=[]>                                        null                                                                                                                                          Enclosed Exception:                                                                                                                           file:/tmp/svgsFolderUrl2plantUmlSprites/e-cloud-tech-member.svg:-1                                                                            The URI "file:/tmp/svgsFolderUrl2plantUmlSprites/e-cloud-tech-member.svg#n"                                                                   for a CSS property found on the element <g> is invalid                                                                                        
+
+
+
