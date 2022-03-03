@@ -45,3 +45,7 @@ Cannot find the referenced element:
 "#v"
 specified on the element <use> - may be a problem of 'id'
 
+
+Cannot find the referenced element:
+"file:/tmp/svgsFolderUrl2plantUmlSprites/epsagon.svg#SVGID_1_"
+specified on the element <path> - may be a problem of 'id'
