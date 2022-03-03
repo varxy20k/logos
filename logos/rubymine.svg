@@ -1,35 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
-    <title>RubyMine</title>
-    <defs>
-        <linearGradient x1="55.2713581%" y1="73.8248625%" x2="39.5092184%" y2="35.4035019%" id="rubymineLinearGradient-1">
-            <stop stop-color="#FE2857" offset="0%"></stop>
-            <stop stop-color="#FE3052" offset="6%"></stop>
-            <stop stop-color="#FD533B" offset="33%"></stop>
-            <stop stop-color="#FC6C2A" offset="58%"></stop>
-            <stop stop-color="#FC7B20" offset="81%"></stop>
-            <stop stop-color="#FC801D" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="19.0472854%" y1="2.91715286%" x2="50.1410335%" y2="36.3282769%" id="rubymineLinearGradient-2">
-            <stop stop-color="#6B57FF" offset="0%"></stop>
-            <stop stop-color="#FE2857" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="9.77490556%" y1="7.99954354%" x2="73.276839%" y2="97.5122675%" id="rubymineLinearGradient-3">
-            <stop stop-color="#6B57FF" offset="0%"></stop>
-            <stop stop-color="#FE2857" offset="30%"></stop>
-            <stop stop-color="#FE2857" offset="63%"></stop>
-            <stop stop-color="#FE3052" offset="64%"></stop>
-            <stop stop-color="#FD533B" offset="70%"></stop>
-            <stop stop-color="#FC6C2A" offset="76%"></stop>
-            <stop stop-color="#FC7B20" offset="81%"></stop>
-            <stop stop-color="#FC801D" offset="85%"></stop>
-        </linearGradient>
-    </defs>
-    <g>
-        <polygon fill="url(#rubymineLinearGradient-1)" points="212.906667 0 139.653333 26.24 81.92 0 62.9066667 47.8933333 50.6133333 47.8933333 50.6133333 189.28 228.4 190.826667 256 50.0266667"></polygon>
-        <polygon fill="url(#rubymineLinearGradient-2)" points="210.72 91.8666667 93.7333333 22.5333333 210.72 159.653333"></polygon>
-        <polygon fill="url(#rubymineLinearGradient-3)" points="106.56 249.333333 202.24 236.586667 187.386667 208.026667 210.72 208.026667 210.72 159.653333 93.7066667 22.32 0 45.3333333 0.106666667 179.733333 53.9733333 256 106.266667 249.36 106.506667 249.333333"></polygon>
-        <polygon fill="#000000" points="50.6666667 48 210.666667 48 210.666667 208 50.6666667 208"></polygon>
-        <path d="M70.6133333,177.76 L130.613333,177.76 L130.613333,187.76 L70.6133333,187.76 L70.6133333,177.76 Z M129.893333,67.92 L144.16,67.92 L159.973333,93.36 L175.786667,67.92 L190.053333,67.92 L190.053333,128.053333 L176.906667,128.053333 L176.906667,88.8 L159.973333,114.48 L159.626667,114.48 L142.88,89.0666667 L142.88,128.053333 L129.893333,128.053333 L129.893333,67.92 Z M70.6666667,68 L98.1333333,68 C105.742222,68 111.573333,70.0266667 115.626667,74.08 C119.144024,77.7638962 121.003275,82.7251093 120.773333,87.8133333 L120.773333,88 C120.968362,92.2470667 119.707738,96.4334667 117.2,99.8666667 C114.799226,102.951458 111.571829,105.291091 107.893333,106.613333 L122.586667,127.946667 L107.12,127.946667 L94.6666667,109.52 L83.76,109.52 L83.76,127.973333 L70.6666667,127.973333 L70.6666667,68 Z M97.3333333,97.0933333 C100.009033,97.2118428 102.635872,96.3488741 104.72,94.6666667 C106.476199,93.0974936 107.451752,90.8342094 107.386667,88.48 L107.386667,88.32 C107.588178,85.872776 106.5949,83.4789761 104.72,81.8933333 C102.493089,80.3360099 99.806141,79.575021 97.0933333,79.7333333 L83.8133333,79.7333333 L83.8133333,96.9866667 L97.3333333,97.0933333 Z" fill="#FFFFFF"></path>
-    </g>
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+	<defs>
+		<linearGradient x1="67.622%" y1="100.513%" x2="37.049%" y2="13.665%" id="a">
+			<stop stop-color="#FF1F51" offset="17%"/>
+			<stop stop-color="#FF3648" offset="28%"/>
+			<stop stop-color="#FF593B" offset="47%"/>
+			<stop stop-color="#FF7231" offset="65%"/>
+			<stop stop-color="#FF812B" offset="81%"/>
+			<stop stop-color="#FF8629" offset="94%"/>
+		</linearGradient>
+		<linearGradient x1="61.538%" y1="22.904%" x2="43.606%" y2="91.688%" id="b">
+			<stop stop-color="#9039D0" offset="2%"/>
+			<stop stop-color="#FF1F51" offset="63%"/>
+		</linearGradient>
+		<linearGradient x1=".475%" y1="8.066%" x2="81.833%" y2="97.528%" id="c">
+			<stop stop-color="#9039D0" offset="11%"/>
+			<stop stop-color="#FF1F51" offset="39%"/>
+			<stop stop-color="#FF1F51" offset="63%"/>
+			<stop stop-color="#FF3648" offset="66%"/>
+			<stop stop-color="#FF593B" offset="71%"/>
+			<stop stop-color="#FF7231" offset="77%"/>
+			<stop stop-color="#FF812B" offset="81%"/>
+			<stop stop-color="#FF8629" offset="85%"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#a)" d="m212.48 0-72.54 26.46L81.92 0 25.6 142.5l64.86-26.44-.86 72.52 139.1 2.56L256 50.34z"/>
+	<path fill="url(#b)" d="m186.02 82.78-92.16-60.6-74.24 46.08 163 63.16z"/>
+	<path fill="url(#c)" d="m106.66 249.18 95.58-12.8-30.72-58.88L192 153.6l1.7-15.36L93.86 22.18 0 45.22v134.84L53.76 256l52.9-6.82z"/>
+	<path d="M42.66 42.66h170.66v170.66H42.66z"/>
+	<path d="M126.3 59.74h17.06l17.92 32.42 18.78-32.42h16.2v76.8H180.9V86.18l-19.62 33.28-19.62-32.42v49.5H126.3v-76.8Zm-66.56 0H91.3c8.533 0 15.36 2.56 20.48 7.68 4.26 4.26 6 10.24 6 18a29.46 29.46 0 0 1-4.26 15.36 18.86 18.86 0 0 1-11.1 8.54l17.06 27.3h-18l-14.44-23.98h-12.8v23.9H58.88v-76.8h.86Zm30.72 37.54A12.74 12.74 0 0 0 99 94.72a10.82 10.82 0 0 0 3.42-7.68A10.96 10.96 0 0 0 99 78.5a12.74 12.74 0 0 0-8.54-2.5H75.1v22.14h15.36v-.86Zm-30.72 87.9h64v10.24h-64v-10.24Z" fill="#FFF"/>
 </svg>

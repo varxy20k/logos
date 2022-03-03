@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="230px" viewBox="0 0 256 230" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
-    <title>Aerospike</title>
-    <g>
-        <path d="M256,0 L256,27.4306908 L195.961336,53.8976565 L195.961336,176.97453 L256,203.727904 L256,229.907171 L27.0165602,126.865978 L0,115.372232 L27.0165602,102.983137 L256,0 Z M172.861604,63.9322684 L56.9191354,115.292244 L172.861604,166.938628 L172.861604,63.9322684 Z" fill="#C4373A"></path>
-    </g>
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+	<path fill="#C4373A" d="M0 256h256V0H0z"/>
+	<path d="M156.294 95.821 83.17 128.214l73.124 32.572V95.821ZM64.31 135.513l-17.04-7.249 17.04-7.814L208.728 55.5v17.3l-37.866 16.693v77.623l37.866 16.873V200.5L64.311 135.513Z" fill="#FFF"/>
 </svg>
