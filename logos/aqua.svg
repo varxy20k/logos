@@ -6,7 +6,7 @@
 		<clipPath id="j" clipPathUnits="userSpaceOnUse">
 			<path d="M419.295 682.37h90.429v-90.505h-90.429z"/>
 		</clipPath>
-		<clipPath id="k" clipPathUnits="userSpaceOnUse">
+		<clipPath id="l" clipPathUnits="userSpaceOnUse">
 			<path d="M419.295 591.864h90.427l.002 90.506z"/>
 		</clipPath>
 		<clipPath id="a" clipPathUnits="userSpaceOnUse">
@@ -24,7 +24,7 @@
 		<clipPath id="r" clipPathUnits="userSpaceOnUse">
 			<path d="M195.573 458.591h90.666v-90.654h-90.666z"/>
 		</clipPath>
-		<clipPath id="s" clipPathUnits="userSpaceOnUse">
+		<clipPath id="t" clipPathUnits="userSpaceOnUse">
 			<path d="m195.573 367.937 90.666 90.654v-90.654z"/>
 		</clipPath>
 		<clipPath id="e" clipPathUnits="userSpaceOnUse">
@@ -83,7 +83,7 @@
 			<stop offset=".393" style="stop-opacity:1;stop-color:#1904da"/>
 			<stop offset="1" style="stop-opacity:1;stop-color:#1904da"/>
 		</linearGradient>
-		<mask id="l" height="1" width="1" y="0" x="0" maskUnits="userSpaceOnUse">
+		<mask id="k" height="1" width="1" y="0" x="0" maskUnits="userSpaceOnUse">
 			<g clip-path="url(#a)">
 				<path style="fill:url(#b);stroke:none" d="M-32768 32767h65535v-65535h-65535Z"/>
 			</g>
@@ -93,7 +93,7 @@
 				<path style="fill:url(#d);stroke:none" d="M-32768 32767h65535v-65535h-65535Z"/>
 			</g>
 		</mask>
-		<mask id="t" height="1" width="1" y="0" x="0" maskUnits="userSpaceOnUse">
+		<mask id="s" height="1" width="1" y="0" x="0" maskUnits="userSpaceOnUse">
 			<g clip-path="url(#e)">
 				<path style="fill:url(#f);stroke:none" d="M-32768 32767h65535v-65535h-65535Z"/>
 			</g>
@@ -107,7 +107,7 @@
 	<g clip-path="url(#i)" transform="matrix(1.33333 0 0 -1.33333 0 1061.333)">
 		<path style="fill:#ffc900;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M0 0h-141.053a22.852 22.852 0 0 1-16.16-6.694l-59.796-59.795c-2.308-2.31-4.617-4.618-4.617-10.159 0 0 0-13.858 12.928-13.858H-.001Z" transform="translate(509.724 682.37)"/>
 		<g clip-path="url(#j)">
-			<g mask="url(#l)" clip-path="url(#k)" style="opacity:.88999897">
+			<g mask="url(#k)" clip-path="url(#l)" style="opacity:.88999897">
 				<path style="fill:url(#m);stroke:none" d="M419.295 591.864h90.427l.002 90.506z"/>
 			</g>
 		</g>
@@ -121,7 +121,7 @@
 		<path style="fill:#ff445f;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M0 0c-2.566 4.417-8.112 7.692-13.511 7.603H-88.19s-.003-237.87 0-299.2c0-12.928 13.172-12.928 13.865-12.928 5.542 0 7.852 2.309 10.162 4.62l59.793 59.793c4.289 4.288 6.653 10.099 6.653 16.161V-7.127C2.283-4.697 1.373-2.269 0 0" transform="translate(597.914 674.768)"/>
 		<path style="fill:#08b1d5;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M0 0v209.207c0 12.96-13.893 12.96-13.893 12.96-5.554 0-7.868-2.314-10.183-4.629l-59.94-59.939c-4.297-4.297-6.651-10.124-6.651-16.201V0Z" transform="translate(286.24 367.938)"/>
 		<g clip-path="url(#r)">
-			<g mask="url(#t)" clip-path="url(#s)" style="opacity:.82000703">
+			<g mask="url(#s)" clip-path="url(#t)" style="opacity:.82000703">
 				<path style="fill:url(#u);stroke:none" d="m195.573 367.937 90.666 90.654v-90.654z"/>
 			</g>
 		</g>
