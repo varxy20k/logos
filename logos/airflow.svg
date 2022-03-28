@@ -4,11 +4,11 @@
 			<stop stop-color="#00C812" offset="0%"/>
 			<stop stop-color="#006E00" offset="100%"/>
 		</radialGradient>
-		<radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="120.116%" gradientTransform="matrix(0 .83253 -.83253 0 0 0)" id="b">
+		<radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="120.116%" gradientTransform="rotate(90) scale(.83253)" id="b">
 			<stop stop-color="#56AFFD" offset="0%"/>
 			<stop stop-color="#04A3FF" offset="100%"/>
 		</radialGradient>
-		<radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="120.116%" gradientTransform="matrix(-.83253 0 0 -.83253 1.833 0)" id="c">
+		<radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="120.116%" gradientTransform="rotate(180 .916 0) scale(.83253)" id="c">
 			<stop stop-color="#DF1F00" offset="0%"/>
 			<stop stop-color="#560D00" offset="100%"/>
 		</radialGradient>
@@ -20,19 +20,19 @@
 			<stop stop-color="#008200" offset="0%"/>
 			<stop stop-color="#007500" offset="100%"/>
 		</radialGradient>
-		<radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="100%" gradientTransform="matrix(0 1 -1 0 0 0)" id="f">
+		<radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="100%" gradientTransform="rotate(90)" id="f">
 			<stop stop-color="#3166D4" offset="0%"/>
 			<stop stop-color="#1A509E" offset="100%"/>
 		</radialGradient>
-		<radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="100%" gradientTransform="matrix(-1 0 0 -1 2 0)" id="g">
+		<radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="100%" gradientTransform="rotate(180 1 0)" id="g">
 			<stop stop-color="#8E1400" offset="0%"/>
 			<stop stop-color="#4B0B00" offset="100%"/>
 		</radialGradient>
-		<radialGradient cx="100%" cy="100.001%" fx="100%" fy="100.001%" r="99.999%" gradientTransform="matrix(0 -1 1 0 0 2)" id="h">
+		<radialGradient cx="100%" cy="100.001%" fx="100%" fy="100.001%" r="99.999%" gradientTransform="rotate(-90 1 1)" id="h">
 			<stop stop-color="#0090C4" offset="0%"/>
 			<stop stop-color="#005D8C" offset="100%"/>
 		</radialGradient>
-		<radialGradient cx="0%" cy="99.999%" fx="0%" fy="99.999%" r="100%" gradientTransform="matrix(1 0 0 .99999 0 0)" id="i">
+		<radialGradient cx="0%" cy="99.999%" fx="0%" fy="99.999%" r="100%" gradientTransform="scale(1 .99999)" id="i">
 			<stop stop-color="#00CD1C" offset="0%"/>
 			<stop stop-color="#00E950" offset="100%"/>
 		</radialGradient>
@@ -40,7 +40,7 @@
 			<stop stop-color="#B1C8FD" offset="0%"/>
 			<stop stop-color="#7EC3FD" offset="100%"/>
 		</radialGradient>
-		<radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="100%" gradientTransform="matrix(-1 0 0 -1 2 0)" id="k">
+		<radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="100%" gradientTransform="rotate(180 1 0)" id="k">
 			<stop stop-color="#E12A00" offset="0%"/>
 			<stop stop-color="#B62F00" offset="100%"/>
 		</radialGradient>

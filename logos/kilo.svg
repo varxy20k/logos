@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-11.99 -11.99 623.48 623.48">
-	<style>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg86" version="1.1" viewBox="0 0 600 600">
+	<style id="style72">
 		.text{font:italic 700 80px sans-serif}
 	</style>
-	<circle id="xl" cx="300" cy="300" r="290" fill="#fff" fill-opacity="0" stroke="#000" stroke-width="20"/>
-	<circle id="l" cx="300" cy="300" r="250" fill="#fff" fill-opacity="0" stroke="#000" stroke-width="20"/>
-	<circle id="m" cx="300" cy="300" r="80" fill="#fff" fill-opacity="0" stroke="#000" stroke-width="20"/>
-	<circle id="s" cx="300" cy="300" r="40" fill="#fff" fill-opacity="0" stroke="#000" stroke-width="20"/>
-	<path id="tl" fill="none" stroke="#000" stroke-linecap="round" stroke-width="20" d="m160 160 80 80"/>
-	<path id="bl" fill="none" stroke="#000" stroke-linecap="round" stroke-width="20" d="m160 440 80-80"/>
-	<path id="tr" fill="none" stroke="#000" stroke-linecap="round" stroke-width="20" d="m440 160-80 80"/>
-	<path id="br" fill="none" stroke="#000" stroke-linecap="round" stroke-width="20" d="m440 440-80-80"/>
-	<g id="text82" class="text">
-		<path id="path96" d="M277.12 111.68 264.72 170h11.2l3.04-14.16 5.44-4.96 6.32 19.12h13.12l-10.32-26.72 18.56-16.48h-12.72l-17.84 16.8 6.8-31.92zm56.32 14.4c-6.08 0-12.16 3.04-16.32 8.32-4.64 5.76-7.6 14.48-7.6 22.24 0 8.8 5.84 15.2 14 15.2 4.96 0 8.16-1.52 13.28-6.24l-1.28 5.84c-1.12 5.28-5.84 8.8-11.68 8.8-4 0-6.881-1.68-6.881-4.08l.08-.96h-11.52c-.16.96-.24 1.84-.24 2.48 0 3.12 2.082 6.08 5.282 7.68 2.96 1.44 6.479 2.08 11.439 2.08 13.28 0 22-5.76 24.16-16l9.52-44.64h-10.64l-1.44 6.64c-2.16-5.04-5.44-7.36-10.16-7.36zm.08 8.96c4.48 0 7.36 3.84 7.36 9.76 0 9.76-6.08 18.08-13.2 18.08-4.16 0-6.721-3.36-6.721-8.96 0-9.84 6-18.88 12.56-18.88z"/>
+	<circle stroke-width="20" stroke="#000" r="290" id="xl" fill-opacity="0" fill="#fff" cy="300" cx="300"/>
+	<circle stroke-width="20" stroke="#000" r="250" id="l" fill-opacity="0" fill="#fff" cy="300" cx="300"/>
+	<circle stroke-width="20" stroke="#000" r="80" id="m" fill-opacity="0" fill="#fff" cy="300" cx="300"/>
+	<circle stroke-width="20" stroke="#000" r="40" id="s" fill-opacity="0" fill="#fff" cy="300" cx="300"/>
+	<path stroke-width="20" stroke-linecap="round" stroke="#000" id="tl" fill="none" d="m160 160 80 80"/>
+	<path stroke-width="20" stroke-linecap="round" stroke="#000" id="bl" fill="none" d="m160 440 80-80"/>
+	<path stroke-width="20" stroke-linecap="round" stroke="#000" id="tr" fill="none" d="m440 160-80 80"/>
+	<path stroke-width="20" stroke-linecap="round" stroke="#000" id="br" fill="none" d="m440 440-80-80"/>
+	<g class="text" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:80px;line-height:normal;font-family:sans-serif" id="text82" aria-label="kg">
+		<path d="M277.12 111.68 264.72 170h11.2l3.04-14.16 5.44-4.96 6.32 19.12h13.12l-10.32-26.72 18.56-16.48h-12.72l-17.84 16.8 6.8-31.92zm56.32 14.4c-6.08 0-12.16 3.04-16.32 8.32-4.64 5.76-7.6 14.48-7.6 22.24 0 8.8 5.84 15.2 14 15.2 4.96 0 8.16-1.52 13.28-6.24l-1.28 5.84c-1.12 5.28-5.84 8.8-11.68 8.8-4 0-6.881-1.68-6.881-4.08l.08-.96h-11.52c-.16.96-.24 1.84-.24 2.48 0 3.12 2.082 6.08 5.282 7.68 2.96 1.44 6.479 2.08 11.439 2.08 13.28 0 22-5.76 24.16-16l9.52-44.64h-10.64l-1.44 6.64c-2.16-5.04-5.44-7.36-10.16-7.36zm.08 8.96c4.48 0 7.36 3.84 7.36 9.76 0 9.76-6.08 18.08-13.2 18.08-4.16 0-6.721-3.36-6.721-8.96 0-9.84 6-18.88 12.56-18.88z" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:80px;line-height:normal;font-family:sans-serif" id="path96"/>
 	</g>
-	<g id="text84" class="text" transform="rotate(180 340 430)">
-		<path id="path103" d="M357.12 371.68 344.72 430h11.2l3.04-14.16 5.44-4.96 6.32 19.12h13.12l-10.32-26.72 18.56-16.48h-12.72l-17.84 16.8 6.8-31.92zm56.32 14.4c-6.08 0-12.16 3.04-16.32 8.32-4.64 5.76-7.6 14.48-7.6 22.24 0 8.8 5.84 15.2 14 15.2 4.96 0 8.16-1.52 13.28-6.24l-1.28 5.84c-1.12 5.28-5.84 8.8-11.68 8.8-4 0-6.881-1.68-6.881-4.08l.08-.96h-11.52c-.16.96-.24 1.84-.24 2.48 0 3.12 2.082 6.08 5.282 7.68 2.96 1.44 6.479 2.08 11.439 2.08 13.28 0 22-5.76 24.16-16l9.52-44.64h-10.64l-1.44 6.64c-2.16-5.04-5.44-7.36-10.16-7.36zm.08 8.96c4.48 0 7.36 3.84 7.36 9.76 0 9.76-6.08 18.08-13.2 18.08-4.16 0-6.721-3.36-6.721-8.96 0-9.84 6-18.88 12.56-18.88z"/>
+	<g class="text" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:80px;line-height:normal;font-family:sans-serif" id="text84" transform="rotate(180 340 430)" aria-label="kg">
+		<path d="M357.12 371.68 344.72 430h11.2l3.04-14.16 5.44-4.96 6.32 19.12h13.12l-10.32-26.72 18.56-16.48h-12.72l-17.84 16.8 6.8-31.92zm56.32 14.4c-6.08 0-12.16 3.04-16.32 8.32-4.64 5.76-7.6 14.48-7.6 22.24 0 8.8 5.84 15.2 14 15.2 4.96 0 8.16-1.52 13.28-6.24l-1.28 5.84c-1.12 5.28-5.84 8.8-11.68 8.8-4 0-6.881-1.68-6.881-4.08l.08-.96h-11.52c-.16.96-.24 1.84-.24 2.48 0 3.12 2.082 6.08 5.282 7.68 2.96 1.44 6.479 2.08 11.439 2.08 13.28 0 22-5.76 24.16-16l9.52-44.64h-10.64l-1.44 6.64c-2.16-5.04-5.44-7.36-10.16-7.36zm.08 8.96c4.48 0 7.36 3.84 7.36 9.76 0 9.76-6.08 18.08-13.2 18.08-4.16 0-6.721-3.36-6.721-8.96 0-9.84 6-18.88 12.56-18.88z" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:80px;line-height:normal;font-family:sans-serif" id="path103"/>
 	</g>
 </svg>

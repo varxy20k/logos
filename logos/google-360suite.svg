@@ -1,6 +1,6 @@
 <svg width="256" height="269" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
 	<defs>
-		<radialGradient cx="12.882%" cy="13.426%" fx="12.882%" fy="13.426%" r="99.308%" gradientTransform="matrix(.99965 0 0 1 0 0)" id="d">
+		<radialGradient cx="12.882%" cy="13.426%" fx="12.882%" fy="13.426%" r="99.308%" gradientTransform="scale(.99965 1)" id="d">
 			<stop stop-color="#FFF" offset="0%"/>
 			<stop stop-color="#FFF" stop-opacity="0" offset="100%"/>
 		</radialGradient>

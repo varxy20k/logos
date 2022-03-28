@@ -1,14 +1,14 @@
 <svg width="256" height="110" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<path id="a" d="M224.236 88.738c0 11.564-9.688 21.025-21.529 21.025H21.75c-11.841 0-21.529-9.461-21.529-21.025V21.781C.221 10.218 9.909.756 21.75.756h180.957c11.841 0 21.529 9.462 21.529 21.025v66.957"/>
+		<path id="b" d="M224.236 88.738c0 11.564-9.688 21.025-21.529 21.025H21.75c-11.841 0-21.529-9.461-21.529-21.025V21.781C.221 10.218 9.909.756 21.75.756h180.957c11.841 0 21.529 9.462 21.529 21.025v66.957"/>
 		<path id="c" d="M-15.94.496H240V110H-15.94"/>
-		<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="b">
+		<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="a">
 			<stop stop-color="#2E4F82" offset="0%"/>
 			<stop stop-color="#182E4D" offset="100%"/>
 		</linearGradient>
 	</defs>
 	<g transform="translate(16)" fill="none" fill-rule="evenodd">
-		<use fill="url(#b)" xlink:href="#a"/>
+		<use fill="url(#a)" xlink:href="#b"/>
 		<mask id="d" fill="#fff">
 			<use xlink:href="#c"/>
 		</mask>

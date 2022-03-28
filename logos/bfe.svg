@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-7.47 -7.22 427.44 170.69">
+<svg width="412" height="156" xmlns="http://www.w3.org/2000/svg">
 	<g fill="none" fill-rule="evenodd">
-		<path stroke="#4E88EB" stroke-width="22.5" d="M412 144.065h-67c-23.196 0-42-18.804-42-42V1"/>
-		<path fill="#4E88EB" d="M294 1h118v23H294zm0 63h114v23H294z"/>
+		<path d="M412 144.065h-67c-23.196 0-42-18.804-42-42V1" stroke="#4E88EB" stroke-width="22.5"/>
+		<path fill="#4E88EB" d="M294 1h118v23H294z"/>
+		<path fill="#4E88EB" d="M294 64h114v23H294z"/>
 		<path fill="#4E88EB" d="M1 1h24v153H1z"/>
-		<path stroke="#4E88EB" stroke-width="22.5" d="M12.683 12.227h78.753c17.257 0 31.247 13.99 31.247 31.246 0 17.257-13.99 31.246-31.247 31.246H12.683V12.227zm-.44 62.908h82.528c18.778 0 34 15.222 34 34 0 18.777-15.222 34-34 34H12.243v-68z"/>
+		<path d="M12.683 12.227h78.753c17.257 0 31.247 13.99 31.247 31.246 0 17.257-13.99 31.246-31.247 31.246H12.683V12.227Z" stroke="#4E88EB" stroke-width="22.5"/>
+		<path d="M12.243 75.135h82.528c18.778 0 34 15.222 34 34 0 18.777-15.222 34-34 34H12.243v-68Z" stroke="#4E88EB" stroke-width="22.5"/>
 		<path fill="#4E88EB" d="M155 1h22v154h-22z"/>
 		<path fill="#4E88EB" d="M276 1v22H155V1z"/>
 		<path fill="#4E88EB" d="M267.5 61.5v22h-102v-22z"/>

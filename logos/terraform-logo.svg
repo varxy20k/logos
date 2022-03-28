@@ -22,7 +22,7 @@
 						<path id="Shape-11" data-name="Shape" class="cls-1" d="m123.86 35.58 55.2 31.88v63.76l-55.2-31.88V35.58z"/>
 						<path id="Shape-12" data-name="Shape" style="fill:#4040b2" d="M185.11 67.46v63.76l55.23-31.88V35.58l-55.23 31.88z"/>
 						<path id="Shape-13" data-name="Shape" class="cls-1" d="M62.61 0v63.76l55.2 31.88V31.88L62.61 0z"/>
-						<path id="Shape-14" data-name="Shape" class="cls-1" d="m123.86 170.06 55.2 31.88V138.21l-55.2-31.88v63.73z"/>
+						<path id="Shape-14" data-name="Shape" class="cls-1" d="m123.86 170.06 55.2 31.88v-63.73l-55.2-31.88v63.73z"/>
 					</g>
 				</g>
 			</g>
