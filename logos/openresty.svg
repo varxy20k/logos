@@ -9,7 +9,7 @@
 		<clipPath id="d" clipPathUnits="userSpaceOnUse">
 			<path d="M11298.2 2660.49c-143.1-242.68-834.2-1305.52-2006.9-1390.51-1324.59-95.97-1938.89 1036.63-1919.69 2054.07 19.19 1017.43 902.25 1804.51 1247.79 2015.68 345.55 211.18 959.84 211.18 959.84 211.18l710.26-479.94-172.7 499.12s7.5 117.9-7.7 292.66c-442.57 284.56-969.23 449.65-1534.47 449.65-1569.11 0-2841.14-1272.02-2841.14-2841.14 0-1569.11 1272.03-2841.139 2841.14-2841.139 1287.38 0 2374.57 856.319 2723.57 2030.369z"/>
 		</clipPath>
-		<linearGradient id="c" spreadMethod="pad" gradientTransform="scale(-10465.3 10465.3) rotate(90 -.29 -.29)" gradientUnits="userSpaceOnUse" y2="0" x2="1" y1="0" x1="0">
+		<linearGradient id="c" spreadMethod="pad" gradientTransform="matrix(0 10465.3 10465.3 0 6069.874 0)" gradientUnits="userSpaceOnUse" y2="0" x2="1" y1="0" x1="0">
 			<stop offset="0" style="stop-opacity:1;stop-color:#50be37"/>
 			<stop offset="1" style="stop-opacity:1;stop-color:#71c82e"/>
 		</linearGradient>

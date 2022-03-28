@@ -12,7 +12,7 @@
 	<clipPath id="SVGID_2_">
 		<use xlink:href="#SVGID_1_" style="overflow:visible"/>
 	</clipPath>
-	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-718.82" y1="334.523" x2="-718.677" y2="334.523" gradientTransform="scale(302.8523) rotate(-90 -192.05 -526.627)">
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-718.82" y1="334.523" x2="-718.677" y2="334.523" gradientTransform="rotate(-90 -58162.784 -159490.198) scale(302.8523)">
 		<stop offset="0" style="stop-color:#444242"/>
 		<stop offset="1" style="stop-color:#262a2a"/>
 	</linearGradient>
@@ -45,7 +45,7 @@
 	<clipPath id="SVGID_11_">
 		<use xlink:href="#SVGID_10_" style="overflow:visible"/>
 	</clipPath>
-	<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="-718.802" y1="336.526" x2="-718.658" y2="336.526" gradientTransform="scale(186.4187) rotate(90 -527.593 191.25)">
+	<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="-718.802" y1="336.526" x2="-718.658" y2="336.526" gradientTransform="rotate(90 -98353.201 35652.576) scale(186.4187)">
 		<stop offset="0" style="stop-color:#595757"/>
 		<stop offset="1" style="stop-color:#000"/>
 	</linearGradient>

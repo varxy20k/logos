@@ -5,22 +5,22 @@
 	<g stroke="null" id="svg_1">
 		<g stroke="null" id="svg_2">
 			<path stroke="null" id="svg_3" d="M122.101 71.314c-.29 2.8-.386 5.696-.386 8.593 0 36.301 22.882 67.39 55.032 79.362 32.054-11.972 55.032-43.06 55.032-79.362 0-2.897-.096-5.793-.386-8.593-14.675-12.551-33.792-20.178-54.55-20.178-20.95 0-40.066 7.53-54.742 20.178z" style="fill:none"/>
-			<linearGradient transform="matrix(.96547 0 0 .96547 -2.541 10.393)" stroke="null" y2="34.593" x2="128.009" y1="34.593" x1="241.636" gradientUnits="userSpaceOnUse" id="SVGID_1_">
+			<linearGradient transform="translate(-2.541 10.393) scale(.96547)" stroke="null" y2="34.593" x2="128.009" y1="34.593" x1="241.636" gradientUnits="userSpaceOnUse" id="SVGID_1_">
 				<stop stop-color="#2D4BFF" offset=".001"/>
 				<stop stop-color="#058AE5" offset=".999"/>
 			</linearGradient>
-			<path stroke="null" id="svg_4" d="M176.65 51.136c20.758 0 39.875 7.627 54.55 20.178l32.343-17.186C248.482 38.005 229.076 26.13 207.16 20.24c-9.752-2.606-19.986-3.958-30.51-3.958-10.523 0-20.757 1.352-30.605 3.958-21.916 5.793-41.322 17.765-56.383 33.888l32.343 17.186c14.772-12.648 33.888-20.178 54.646-20.178z" style="fill:url(#SVGID_1_)"/>
-			<linearGradient transform="matrix(.96547 0 0 .96547 -2.541 10.393)" stroke="null" y2="77.965" x2="265.125" y1="167.826" x1="208.167" gradientUnits="userSpaceOnUse" id="SVGID_2_">
+			<path stroke="null" id="svg_4" d="M176.65 51.136c20.758 0 39.875 7.627 54.55 20.178l32.343-17.186A119.556 119.556 0 0 0 207.16 20.24c-9.752-2.606-19.986-3.958-30.51-3.958-10.523 0-20.757 1.352-30.605 3.958-21.916 5.793-41.322 17.765-56.383 33.888l32.343 17.186c14.772-12.648 33.888-20.178 54.646-20.178z" style="fill:url(#SVGID_1_)"/>
+			<linearGradient transform="translate(-2.541 10.393) scale(.96547)" stroke="null" y2="77.965" x2="265.125" y1="167.826" x1="208.167" gradientUnits="userSpaceOnUse" id="SVGID_2_">
 				<stop stop-color="#2D4BFF" offset=".001"/>
 				<stop stop-color="#058AE5" offset=".999"/>
 			</linearGradient>
 			<path stroke="null" id="svg_5" d="m263.543 54.128-32.247 17.09c.29 2.8.387 5.696.387 8.592 0 36.302-22.882 67.39-55.032 79.362v36.398c23.654-5.986 44.411-19.116 60.052-36.88a119.097 119.097 0 0 0 22.882-39.006c4.441-12.454 6.758-25.875 6.758-39.874 0-8.786-.965-17.378-2.8-25.682z" style="fill:url(#SVGID_2_)"/>
-			<linearGradient transform="matrix(.96547 0 0 .96547 -2.541 10.393)" stroke="null" y2="168.374" x2="162.423" y1="77.406" x1="106.294" gradientUnits="userSpaceOnUse" id="SVGID_3_">
+			<linearGradient transform="translate(-2.541 10.393) scale(.96547)" stroke="null" y2="168.374" x2="162.423" y1="77.406" x1="106.294" gradientUnits="userSpaceOnUse" id="SVGID_3_">
 				<stop stop-color="#2D4BFF" offset=".001"/>
 				<stop stop-color="#058AE5" offset=".999"/>
 			</linearGradient>
 			<path stroke="null" id="svg_6" d="M121.619 79.81c0-2.896.096-5.793.386-8.593L89.758 54.128a118.932 118.932 0 0 0-2.8 25.682c0 14 2.414 27.42 6.759 39.874a119.097 119.097 0 0 0 22.881 39.005c15.64 17.765 36.399 30.895 60.053 36.881v-36.398c-32.054-11.875-55.032-42.964-55.032-79.362z" style="fill:url(#SVGID_3_)"/>
-			<linearGradient transform="matrix(.96547 0 0 .96547 -2.541 10.393)" stroke="null" y2="69.606" x2="222.244" y1="108.662" x1="157.609" gradientUnits="userSpaceOnUse" id="SVGID_4_">
+			<linearGradient transform="translate(-2.541 10.393) scale(.96547)" stroke="null" y2="69.606" x2="222.244" y1="108.662" x1="157.609" gradientUnits="userSpaceOnUse" id="SVGID_4_">
 				<stop stop-color="#058AE5" offset=".001"/>
 				<stop stop-color="#2D4BFF" offset=".999"/>
 			</linearGradient>

@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-4.87 -4.87 253.24 141.24">
 	<defs>
-		<linearGradient id="i">
+		<linearGradient id="f">
 			<stop offset="0" stop-color="#8c8c8c"/>
 			<stop offset=".441" stop-color="#212121" stop-opacity=".937"/>
 			<stop offset="1" stop-color="#7b7b7b" stop-opacity=".939"/>
 		</linearGradient>
-		<linearGradient id="h">
+		<linearGradient id="e">
 			<stop offset="0" stop-color="#222b3b"/>
 			<stop offset="1" stop-color="#9eb6e2" stop-opacity="0"/>
 		</linearGradient>
-		<linearGradient id="g">
+		<linearGradient id="i">
 			<stop offset="0" stop-color="#fff883"/>
 			<stop offset="1" stop-color="#98911e" stop-opacity=".918"/>
 		</linearGradient>
-		<linearGradient id="f">
+		<linearGradient id="d">
 			<stop offset="0" stop-color="#a35623"/>
 			<stop offset="1" stop-color="#5b3216"/>
 		</linearGradient>
-		<linearGradient id="e">
+		<linearGradient id="c">
 			<stop offset="0" stop-color="gray" stop-opacity=".96"/>
 			<stop offset=".51" stop-color="#f9f9f9" stop-opacity=".988"/>
 			<stop offset="1" stop-color="#b3b3b3"/>
 		</linearGradient>
-		<linearGradient id="d">
+		<linearGradient id="h">
 			<stop offset="0" stop-color="#efb990"/>
 			<stop offset="1" stop-color="#b7875e"/>
 		</linearGradient>
-		<linearGradient id="c">
+		<linearGradient id="g">
 			<stop offset="0" stop-color="#fbc59c"/>
 			<stop offset="1" stop-color="#ca9369"/>
 		</linearGradient>
@@ -41,24 +41,24 @@
 		</linearGradient>
 		<linearGradient id="l" x1="1506.286" x2="2242.857" y1="-3005.391" y2="-2904.774" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
 		<linearGradient id="n" x1="2111.76" x2="2044.322" y1="-3273.873" y2="-3069.822" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-		<linearGradient id="E" x1="1680.075" x2="1943.482" y1="-2418.842" y2="-2418.842" gradientTransform="translate(-134.836 -843.839) scale(.02575)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
-		<linearGradient id="r" x1="1046.401" x2="1137.195" y1="872.43" y2="872.43" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
-		<linearGradient id="m" x1="1895.046" x2="1996.061" y1="-3305.989" y2="-3548.426" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
-		<linearGradient id="y" x1="-255.324" x2="-83.783" y1="-2133.49" y2="-2133.49" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
-		<linearGradient id="F" x1="-260.788" x2="-69.639" y1="-82.98" y2="-82.98" gradientTransform="translate(-134.836 -843.839) scale(.02575)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
-		<linearGradient id="G" x1="-138.96" x2="74.433" y1="234.875" y2="212.424" gradientTransform="matrix(.09165 0 0 .0973 -135.052 -843.839)" gradientUnits="userSpaceOnUse" xlink:href="#i"/>
-		<radialGradient id="k" cx="1796.104" cy="-2607.602" r="447.874" fx="1796.104" fy="-2607.602" gradientTransform="matrix(1 0 0 1.03252 0 84.81)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-		<radialGradient id="z" cx="1826.751" cy="-2087.381" r="277.557" fx="1826.751" fy="-2087.381" gradientTransform="matrix(.02575 0 0 .02119 -134.836 -853.355)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
-		<radialGradient id="A" cx="-37.216" cy="-1601.422" r="509.649" fx="-37.216" fy="-1601.422" gradientTransform="matrix(1 0 0 .63418 0 -585.836)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-		<radialGradient id="B" cx="2065.732" cy="772.828" r="149.108" fx="2065.732" fy="772.828" gradientTransform="matrix(.02575 0 0 .02217 -134.836 -841.078)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-		<radialGradient id="C" cx="1100.489" cy="714.6" r="133.992" fx="1100.489" fy="714.6" gradientTransform="matrix(.02575 0 0 .0162 -134.836 -837.012)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-		<radialGradient id="D" cx="2467.352" cy="-788.561" r="256.528" fx="2467.352" fy="-788.561" gradientTransform="matrix(.02575 0 0 .03027 -134.836 -840.273)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-		<radialGradient id="q" cx="2587.429" cy="1175.673" r="312.004" fx="2587.429" fy="1175.673" gradientTransform="matrix(1 0 0 .75236 0 291.146)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
-		<radialGradient id="p" cx="2042.04" cy="1156.405" r="261.175" fx="2042.04" fy="1156.405" gradientTransform="matrix(1 0 0 .96904 0 35.799)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
-		<radialGradient id="o" cx="1051.469" cy="1185.615" r="327.256" fx="1051.469" fy="1185.615" gradientTransform="matrix(1 0 0 .73264 0 316.99)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
-		<radialGradient id="s" cx="1808.044" cy="-1688.5" r="54.46" fx="1808.044" fy="-1688.5" gradientTransform="matrix(1 0 0 1.00207 0 3.492)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
-		<radialGradient id="u" cx="1795.127" cy="-1397.507" r="53.751" fx="1795.127" fy="-1397.507" gradientTransform="matrix(1 0 0 1.01518 0 21.215)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
-		<radialGradient id="w" cx="1779.276" cy="-1104.803" r="53.99" fx="1779.276" fy="-1104.803" gradientTransform="matrix(1 0 0 1.00384 0 4.247)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+		<linearGradient id="E" x1="1680.075" x2="1943.482" y1="-2418.842" y2="-2418.842" gradientTransform="translate(-134.836 -843.839) scale(.02575)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<linearGradient id="r" x1="1046.401" x2="1137.195" y1="872.43" y2="872.43" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+		<linearGradient id="m" x1="1895.046" x2="1996.061" y1="-3305.989" y2="-3548.426" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
+		<linearGradient id="y" x1="-255.324" x2="-83.783" y1="-2133.49" y2="-2133.49" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+		<linearGradient id="F" x1="-260.788" x2="-69.639" y1="-82.98" y2="-82.98" gradientTransform="translate(-134.836 -843.839) scale(.02575)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+		<linearGradient id="G" x1="-138.96" x2="74.433" y1="234.875" y2="212.424" gradientTransform="matrix(.09165 0 0 .0973 -135.052 -843.839)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+		<radialGradient id="k" cx="1796.104" cy="-2607.602" r="447.874" fx="1796.104" fy="-2607.602" gradientTransform="matrix(1 0 0 1.03252 0 84.81)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+		<radialGradient id="z" cx="1826.751" cy="-2087.381" r="277.557" fx="1826.751" fy="-2087.381" gradientTransform="matrix(.02575 0 0 .02119 -134.836 -853.355)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+		<radialGradient id="A" cx="-37.216" cy="-1601.422" r="509.649" fx="-37.216" fy="-1601.422" gradientTransform="matrix(1 0 0 .63418 0 -585.836)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+		<radialGradient id="B" cx="2065.732" cy="772.828" r="149.108" fx="2065.732" fy="772.828" gradientTransform="matrix(.02575 0 0 .02217 -134.836 -841.078)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+		<radialGradient id="C" cx="1100.489" cy="714.6" r="133.992" fx="1100.489" fy="714.6" gradientTransform="matrix(.02575 0 0 .0162 -134.836 -837.012)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+		<radialGradient id="D" cx="2467.352" cy="-788.561" r="256.528" fx="2467.352" fy="-788.561" gradientTransform="matrix(.02575 0 0 .03027 -134.836 -840.273)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+		<radialGradient id="q" cx="2587.429" cy="1175.673" r="312.004" fx="2587.429" fy="1175.673" gradientTransform="matrix(1 0 0 .75236 0 291.146)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+		<radialGradient id="p" cx="2042.04" cy="1156.405" r="261.175" fx="2042.04" fy="1156.405" gradientTransform="matrix(1 0 0 .96904 0 35.799)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+		<radialGradient id="o" cx="1051.469" cy="1185.615" r="327.256" fx="1051.469" fy="1185.615" gradientTransform="matrix(1 0 0 .73264 0 316.99)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+		<radialGradient id="s" cx="1808.044" cy="-1688.5" r="54.46" fx="1808.044" fy="-1688.5" gradientTransform="matrix(1 0 0 1.00207 0 3.492)" gradientUnits="userSpaceOnUse" xlink:href="#i"/>
+		<radialGradient id="u" cx="1795.127" cy="-1397.507" r="53.751" fx="1795.127" fy="-1397.507" gradientTransform="matrix(1 0 0 1.01518 0 21.215)" gradientUnits="userSpaceOnUse" xlink:href="#i"/>
+		<radialGradient id="w" cx="1779.276" cy="-1104.803" r="53.99" fx="1779.276" fy="-1104.803" gradientTransform="matrix(1 0 0 1.00384 0 4.247)" gradientUnits="userSpaceOnUse" xlink:href="#i"/>
 		<filter id="j" color-interpolation-filters="sRGB">
 			<feColorMatrix result="fbSourceGraphic" type="luminanceToAlpha"/>
 			<feFlood flood-color="#862718" flood-opacity="1" result="result1"/>

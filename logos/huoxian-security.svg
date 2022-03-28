@@ -4,7 +4,7 @@
 			<stop style="stop-opacity:1;stop-color:#e74a49" offset="0"/>
 			<stop style="stop-opacity:1;stop-color:#d73533" offset="1"/>
 		</linearGradient>
-		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(27.35 65.02 -65.02 27.35 130.65 173.17)" spreadMethod="pad" id="c">
+		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="rotate(67.19 -65.026 184.936) scale(70.54)" spreadMethod="pad" id="c">
 			<stop style="stop-opacity:1;stop-color:#e74a49" offset="0"/>
 			<stop style="stop-opacity:1;stop-color:#d73533" offset="1"/>
 		</linearGradient>
@@ -16,7 +16,7 @@
 			<stop style="stop-opacity:1;stop-color:#e74a49" offset="0"/>
 			<stop style="stop-opacity:1;stop-color:#d73533" offset="1"/>
 		</linearGradient>
-		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(38.7 60.28 -60.28 38.7 89.768 189.24)" spreadMethod="pad" id="g">
+		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="scale(71.63) rotate(57.3 -1.791 2.468)" spreadMethod="pad" id="g">
 			<stop style="stop-opacity:1;stop-color:#e74a49" offset="0"/>
 			<stop style="stop-opacity:1;stop-color:#d73533" offset="1"/>
 		</linearGradient>

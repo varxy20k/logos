@@ -29,7 +29,7 @@
 				</mask>
 				<path fill="#FD863A" mask="url(#b)" d="M-1.08-1.043h126.544v126.544H-1.08z"/>
 			</g>
-			<path fill="url(#c)" fill-rule="nonzero" d="M480.23 6.24 170.504 159.236l-37.344 170.438L149.505 470.5 479.5 625.38l327.594-163.875 23.034-118.168-40.157-184.102z"/>
+			<path fill="url(#c)" fill-rule="nonzero" d="M480.23 6.24 170.504 159.236 133.16 329.674 149.505 470.5 479.5 625.38l327.594-163.875 23.034-118.168-40.157-184.102z"/>
 			<mask id="f" fill="#fff">
 				<use xlink:href="#d"/>
 			</mask>
@@ -47,7 +47,7 @@
 			<mask id="j" fill="#fff">
 				<use xlink:href="#i"/>
 			</mask>
-			<path fill="#1FF6EF" mask="url(#j)" d="M-2.1-2.354H86.55v88.65H-2.1z"/>
+			<path fill="#1FF6EF" mask="url(#j)" d="M-2.1-2.354h88.65v88.65H-2.1z"/>
 		</g>
 		<g transform="translate(636.732 364.987)">
 			<mask id="l" fill="#fff">

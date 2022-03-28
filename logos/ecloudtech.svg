@@ -3,9 +3,7 @@
 		<clipPath id="bf" clipPathUnits="userSpaceOnUse">
 			<path d="M317.792 286.689a37.171 37.171 0 0 1-4.156-.786c-18.45-8.196-29.006-29.588-41.846-29.238a12.72 12.72 0 0 0-3.748.672 24.8 24.8 0 0 1 .368-.544c0-.003.007-.003.007-.003.291-.415.588-.824.893-1.226.048-.069.097-.132.146-.197.256-.336.519-.676.782-1.008.104-.132.208-.26.312-.389.214-.262.429-.526.651-.782.159-.197.325-.387.491-.582.166-.19.333-.381.499-.567.228-.253.457-.506.685-.755a52.355 52.355 0 0 1 1.213-1.268 41.635 41.635 0 0 1 1.233-1.219l.062-.062a54.761 54.761 0 0 1 10.278-7.674.589.589 0 0 1 .09-.055c.409-.236.824-.464 1.24-.693.097-.049.194-.1.284-.152.353-.188.706-.367 1.059-.548.181-.09.354-.173.527-.263a43.519 43.519 0 0 1 1.635-.765c.2-.09.394-.18.595-.264.36-.159.727-.311 1.095-.464.104-.041.207-.086.318-.131.471-.187.935-.371 1.413-.548 0 0 .021-.006.027-.006a54.66 54.66 0 0 1 9.884-2.625c1.6-.263 3.193-.457 4.779-.581l.464-.036c.291-.02.582-.034.873-.047.332-.018.658-.036.99-.049.139-.007.277-.007.422-.011.465-.01.935-.023 1.407-.023h.124c1.122.005 2.237.041 3.345.106 0 0 .014.004.021.004.548.034 1.088.076 1.628.125.048.007.104.014.152.014.485.047.963.1 1.448.159.118.013.242.034.36.049.402.047.797.106 1.191.166.208.034.416.069.631.1.297.052.595.1.893.155l.907.173c.194.039.381.076.575.118.402.083.803.173 1.198.271.091.017.18.041.27.059a54.596 54.596 0 0 1 22.6 11.538c.028.021.055.048.083.069.353.306.7.609 1.046.925.097.091.201.183.298.273.27.246.54.499.803.752.173.155.339.322.506.485.187.187.381.377.574.571.077.083.16.163.236.246-4.433 18.087-17.238 38.685-33.861 36.531"/>
 		</clipPath>
-		<clipPath id="aQ" clipPathUnits="userSpaceOnUse">
-			<path d="M349.236 247.831"/>
-		</clipPath>
+		<clipPath id="aQ" clipPathUnits="userSpaceOnUse"/>
 		<clipPath id="af" clipPathUnits="userSpaceOnUse">
 			<path d="m349.236 247.831.298.273-.298-.273"/>
 		</clipPath>
@@ -51,9 +49,7 @@
 		<clipPath id="g" clipPathUnits="userSpaceOnUse">
 			<path d="M348.19 247.831h1.046v-.925h-1.046z"/>
 		</clipPath>
-		<clipPath id="i" clipPathUnits="userSpaceOnUse">
-			<path d="M349.236 247.831"/>
-		</clipPath>
+		<clipPath id="i" clipPathUnits="userSpaceOnUse"/>
 		<clipPath id="w" clipPathUnits="userSpaceOnUse">
 			<path d="M309.681 327.117c13.922 5.852 34.735 2.029 39.583 1.471a54.315 54.315 0 0 1-27.531 13.302c-16.124 2.694-31.756-1.974-43.482-11.539 13.132-6.306 23.382-5.908 31.43-3.234"/>
 		</clipPath>
@@ -63,9 +59,7 @@
 		<clipPath id="ao" clipPathUnits="userSpaceOnUse">
 			<path d="M348.19 247.831h1.046v-.925h-1.046z"/>
 		</clipPath>
-		<clipPath id="aq" clipPathUnits="userSpaceOnUse">
-			<path d="M349.236 247.831"/>
-		</clipPath>
+		<clipPath id="aq" clipPathUnits="userSpaceOnUse"/>
 		<clipPath id="t" clipPathUnits="userSpaceOnUse">
 			<path d="M278.251 342.645h71.013V325.28h-71.013z"/>
 		</clipPath>
@@ -75,9 +69,7 @@
 		<clipPath id="b" clipPathUnits="userSpaceOnUse">
 			<path d="M349.534 248.856h.803v-.752h-.803z"/>
 		</clipPath>
-		<clipPath id="d" clipPathUnits="userSpaceOnUse">
-			<path d="M350.337 248.856"/>
-		</clipPath>
+		<clipPath id="d" clipPathUnits="userSpaceOnUse"/>
 		<clipPath id="bw" clipPathUnits="userSpaceOnUse">
 			<path d="M309.681 327.116c13.922 5.853 34.707 2.051 39.555 1.493-7.254 6.604-16.844 11.493-27.503 13.28-16.124 2.695-31.645-1.987-43.371-11.552 13.132-6.306 23.271-5.894 31.319-3.221"/>
 		</clipPath>
@@ -174,9 +166,7 @@
 		<clipPath id="I" clipPathUnits="userSpaceOnUse">
 			<path d="M348.19 247.831h1.046v-.925h-1.046z"/>
 		</clipPath>
-		<clipPath id="K" clipPathUnits="userSpaceOnUse">
-			<path d="M349.236 247.831"/>
-		</clipPath>
+		<clipPath id="K" clipPathUnits="userSpaceOnUse"/>
 		<clipPath id="N" clipPathUnits="userSpaceOnUse">
 			<path d="M259.683 330.171h108.96v-51.014h-108.96z"/>
 		</clipPath>
@@ -198,9 +188,7 @@
 		<clipPath id="M" clipPathUnits="userSpaceOnUse">
 			<path d="M349.534 248.856h.803v-.752h-.803z"/>
 		</clipPath>
-		<clipPath id="O" clipPathUnits="userSpaceOnUse">
-			<path d="M350.337 248.856"/>
-		</clipPath>
+		<clipPath id="O" clipPathUnits="userSpaceOnUse"/>
 		<clipPath id="bh" clipPathUnits="userSpaceOnUse">
 			<path d="M317.799 286.69c-21.977-2.851-37.089-25.468-50.657-22.815a12.902 12.902 0 0 0-3.601 1.288c15.458-10.174 33.556 15.335 55.532 18.186 6.101.791 12.155-.822 17.605-4.421-4.749 4.816-10.328 7.918-16.481 7.918-.79 0-1.59-.051-2.398-.156"/>
 		</clipPath>
@@ -413,24 +401,8 @@
 			<stop offset="0" stop-color="#30a8e1"/>
 			<stop offset="1" stop-color="#172a88"/>
 		</linearGradient>
-		<mask id="as" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
-			<g clip-path="url(#a)">
-				<g clip-path="url(#b)" opacity=".2">
-					<g mask="url(#c)" clip-path="url(#d)">
-						<path fill="url(#e)" d="M350.337 248.856"/>
-					</g>
-				</g>
-			</g>
-		</mask>
-		<mask id="ap" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
-			<g clip-path="url(#f)">
-				<g clip-path="url(#g)" opacity=".2">
-					<g mask="url(#h)" clip-path="url(#i)">
-						<path fill="url(#j)" d="M349.236 247.831"/>
-					</g>
-				</g>
-			</g>
-		</mask>
+		<mask id="as" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse"/>
+		<mask id="ap" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse"/>
 		<mask id="am" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
 			<g clip-path="url(#k)">
 				<g clip-path="url(#l)" opacity=".2">
@@ -481,24 +453,8 @@
 				</g>
 			</g>
 		</mask>
-		<mask id="aP" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
-			<g clip-path="url(#H)">
-				<g clip-path="url(#I)" opacity=".2">
-					<g mask="url(#J)" clip-path="url(#K)">
-						<path fill="url(#E)" d="M349.236 247.831"/>
-					</g>
-				</g>
-			</g>
-		</mask>
-		<mask id="aT" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
-			<g clip-path="url(#L)">
-				<g clip-path="url(#M)" opacity=".2">
-					<g mask="url(#N)" clip-path="url(#O)">
-						<path fill="url(#P)" d="M350.337 248.856"/>
-					</g>
-				</g>
-			</g>
-		</mask>
+		<mask id="aP" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse"/>
+		<mask id="aT" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse"/>
 		<mask id="be" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
 			<g clip-path="url(#Q)">
 				<g clip-path="url(#R)" opacity=".2">
@@ -545,11 +501,6 @@
 				<path fill="url(#an)" d="M351.417 249.912c-.193-.194-.387-.384-.574-.571.187.19.381.377.574.571"/>
 			</g>
 		</g>
-		<g clip-path="url(#ao)" mask="url(#ap)">
-			<g clip-path="url(#aq)" opacity=".2">
-				<path fill="url(#ar)" d="M349.236 247.831"/>
-			</g>
-		</g>
 		<g clip-path="url(#aa)" mask="url(#as)">
 			<g clip-path="url(#at)" opacity=".2">
 				<path fill="url(#au)" d="M350.337 248.856a40.777 40.777 0 0 0-.803-.752c.27.25.54.499.803.752"/>
@@ -583,11 +534,6 @@
 		<g clip-path="url(#aK)" mask="url(#aL)">
 			<g clip-path="url(#aM)" opacity=".2">
 				<path fill="url(#aN)" d="M351.417 249.912c-.193-.194-.387-.384-.574-.571.187.19.381.377.574.571"/>
-			</g>
-		</g>
-		<g clip-path="url(#aO)" mask="url(#aP)">
-			<g clip-path="url(#aQ)" opacity=".2">
-				<path fill="url(#aR)" d="M349.236 247.831"/>
 			</g>
 		</g>
 		<g clip-path="url(#aS)" mask="url(#aT)">
